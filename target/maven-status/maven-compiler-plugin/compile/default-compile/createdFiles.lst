@@ -1,0 +1,11 @@
+ritik\resources\ExtentReportTesting.class
+AutomationFramework\PageObjects\OrderConfirmation.class
+AutomationFramework\PageObjects\CartPage.class
+AutomationFramework\PageObjects\CardDetails.class
+AutomationFramework\PageObjects\LandingPage.class
+AutomationFramework\PageObjects\AbstractComponents.class
+AutomationFramework\PageObjects\LoginToConfirmOrder.class
+AutomationFramework\PageObjects\AccountCreatedConfirmation.class
+AutomationFramework\PageObjects\Register.class
+AutomationFramework\PageObjects\AccountDeleted.class
+AutomationFramework\PageObjects\ProductDetails.class

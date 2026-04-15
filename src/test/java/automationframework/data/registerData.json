@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ritik",
+    "email": "yadav75@gmail.com",
+    "passkey": "987656",
+    "day": "5",
+    "month": "January",
+    "year": "2019",
+    "firstName": "Ritik",
+    "lastName": "Yadav",
+    "company": "source Infotech Pvt Ltd",
+    "address": "Sector 67",
+    "countryIndex": "1",
+    "city": "New York",
+    "state": "BrownVille",
+    "zipcode": "12309",
+    "mobile": "987654321",
+    "loginPassword": "123456",
+    "productName": "Blue Top"
+  }
+]
